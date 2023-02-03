@@ -1,6 +1,8 @@
 <svg width="545" height="566" viewBox="0 0 545 566" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_1_3)">
-<circle cx="288" cy="-468" r="566" fill="#F3F3F8"/>
+<rect width="545" height="566" fill="#C4F2FF"/>
+<circle cx="288" cy="-799" r="1073" fill="#128AB0"/>
+<rect y="274" width="308" height="12" fill="#D9D9D9"/>
 </g>
 <defs>
 <clipPath id="clip0_1_3">
